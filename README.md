@@ -3,11 +3,11 @@
 # Hi there, I'm zibirik 👋
 ### AI Engineering Student @ ITMO University · Systems & Cross-Platform Developer
 
-![ITMO (https://img.shields.io/badge/ITMO_University-Top--Level_AI_Track-0057B7?style=for-the-badge)](https://itmo.ru)
-![Kotlin (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-![.NET 8 (https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-![Python (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Rust (https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[ITMO (https://img.shields.io/badge/ITMO_University-Top--Level_AI_Track-0057B7?style=for-the-badge)](https://itmo.ru)
+[Kotlin (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[.NET 8 (https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[Python (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[Rust (https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 </div>
 
