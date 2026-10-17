@@ -1,13 +1,13 @@
 # Hi there, I'm zibirik 👋
 ### AI Engineering Student @ ITMO University · Systems & Cross-Platform Developer
 
-[![ITMO](https://shields.io)](https://itmo.ru)
-![C Sharp](https://shields.io)
-![Dotnet](https://shields.io)
-![SQL](https://shields.io)
-![Kotlin](https://shields.io)
-![Python](https://shields.io)
-![Rust](https://shields.io)
+<img src="https://shields.io" alt="ITMO" />
+<img src="https://shields.io" alt="C Sharp" />
+<img src="https://shields.io" alt="Dotnet" />
+<img src="https://shields.io" alt="SQL" />
+<img src="https://shields.io" alt="Kotlin" />
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="Rust" />
 
 ---
 
@@ -25,10 +25,10 @@
 > Turn your Android tablet into a premium control deck for your Windows PC.  
 > *Stream · Work · Study · Gaming · Automation · Smart Home — all from one glassy dashboard.*
 
-![Release](https://shields.io)
-![CI](https://shields.io)
-![Android](https://shields.io)
-![Windows](https://shields.io)
+<img src="https://shields.io" alt="Release" />
+<img src="https://shields.io" alt="CI" />
+<img src="https://shields.io" alt="Android" />
+<img src="https://shields.io" alt="Windows" />
 
 A production-ready, two-part system engineered from scratch:
 - 📱 **Android Client** (Kotlin, Jetpack Compose, Material 3, Hilt, Room, DataStore, Ktor): Custom grids up to 12×12, drag & drop layout, live PC hardware telemetry widgets, OBS Control Room, and Counter-Strike 2 Game State Integration (GSI) HUD.
