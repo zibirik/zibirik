@@ -1,15 +1,22 @@
 <div align="center">
 
 # Hi there, I'm zibirik 👋
+
 ### AI Engineering Student @ ITMO University · Systems & Cross-Platform Developer
 
-[![ITMO](https://shields.io)](https://itmo.ru)
-[![C#](https://shields.io)](https://microsoft.com)
-[![.NET](https://shields.io)](https://microsoft.com)
-[![SQL](https://shields.io)](https://wikipedia.org)
-[![Kotlin](https://shields.io)](https://kotlinlang.org)
-[![Python](https://shields.io)](https://python.org)
-[![Rust](https://shields.io)](https://rust-lang.org)
+<!-- Ключевые языки и платформы -->
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/sql)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
+
+<!-- Инструменты и окружение -->
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://microsoft.com/windows)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 </div>
 
@@ -24,17 +31,13 @@
 
 ---
 
-### 🚀 Flagship Project: [StreamPanel](https://github.com)
+### 🚀 Flagship Project: [StreamPanel](https://github.com/zibirik)
 
 > Turn your Android tablet into a premium control deck for your Windows PC.  
 > *Stream · Work · Study · Gaming · Automation · Smart Home — all from one glassy dashboard.*
 
-![Release](https://shields.io)
-![CI](https://shields.io)
-![Android](https://shields.io)
-![Windows](https://shields.io)
-
 A production-ready, two-part system engineered from scratch:
+
 - 📱 **Android Client** (Kotlin, Jetpack Compose, Material 3, Hilt, Room, DataStore, Ktor): Custom grids up to 12×12, drag & drop layout, live PC hardware telemetry widgets, OBS Control Room, and Counter-Strike 2 Game State Integration (GSI) HUD.
 - 🖥 **Windows Server** (.NET, ASP.NET Core Minimal APIs): Self-contained companion daemon handling Windows API hooks, window snapping, hotkeys, process management, and custom WebSocket protocol (`:17820`) with PIN authentication and brute-force IP lockout.
 - 🔌 **Ecosystem Integrations**: OBS WebSocket 5.x, CS2 GSI, MQTT, Home Assistant, Philips Hue, Spotify, and automated UI screenshot testing (*ShellScreenshotTest*) via GitHub Actions CI/CD.
@@ -58,18 +61,18 @@ A production-ready, two-part system engineered from scratch:
 |:---|:---|
 | **Languages** | C# · SQL · Kotlin · Python · Rust · PowerShell |
 | **Frameworks & Runtimes** | .NET (Core / Framework) · ASP.NET Core Minimal APIs · Ktor |
-| **Mobile & UI** | Jetpack Compose · Material 3 · Hilt · Coroutines & Flow |
+| **Mobile & UI** | Jetpack Compose · Material 3 · Hilt · Room DB · DataStore · Coroutines & Flow |
 | **Databases & Storage** | Relational SQL · Room DB · DataStore |
 | **Backend & Systems** | gRPC / Protobuf · WebSockets · Win32 API |
 | **AI & ML** | OpenAI Whisper (ASR) · OCR Pipelines · LLM Agents (DeepSeek / OpenAI) · Voice Wake-Word & TTS |
-| **DevOps & Quality** | GitHub Actions (CI/CD) · xUnit / JUnit · Automated Screenshot Testing · Git · Docker |
+| **DevOps & Environment** | Windows 11 · Cursor · Gemini AI · NekoBox · GitHub Actions · Git · Docker |
 
 ---
 
 <div align="center">
 
-[![Telegram](https://shields.io)](https://t.me)
-[![VK](https://shields.io)](https://vk.com)
-[![Email](https://shields.io)](mailto:zibirik122@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zibirik)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/zibirik)
+[![Email](https://img.shields.io/badge/Email-zibirik122%40yandex.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zibirik122@yandex.ru)
 
 </div>
