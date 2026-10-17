@@ -1,7 +1,17 @@
+<div align="center">
+
 # Hi there, I'm zibirik 👋
 ### AI Engineering Student @ ITMO University · Systems & Cross-Platform Developer
 
-![ITMO](https://shields.io) ![C#](https://shields.io) ![.NET](https://shields.io) ![SQL](https://shields.io) ![Kotlin](https://shields.io) ![Python](https://shields.io) ![Rust](https://shields.io)
+[![ITMO](https://shields.io)](https://itmo.ru)
+[![C#](https://shields.io)](https://microsoft.com)
+[![.NET](https://shields.io)](https://microsoft.com)
+[![SQL](https://shields.io)](https://wikipedia.org)
+[![Kotlin](https://shields.io)](https://kotlinlang.org)
+[![Python](https://shields.io)](https://python.org)
+[![Rust](https://shields.io)](https://rust-lang.org)
+
+</div>
 
 ---
 
@@ -19,7 +29,10 @@
 > Turn your Android tablet into a premium control deck for your Windows PC.  
 > *Stream · Work · Study · Gaming · Automation · Smart Home — all from one glassy dashboard.*
 
-![Release](https://shields.io) ![CI](https://shields.io) ![Android](https://shields.io) ![Windows](https://shields.io)
+![Release](https://shields.io)
+![CI](https://shields.io)
+![Android](https://shields.io)
+![Windows](https://shields.io)
 
 A production-ready, two-part system engineered from scratch:
 - 📱 **Android Client** (Kotlin, Jetpack Compose, Material 3, Hilt, Room, DataStore, Ktor): Custom grids up to 12×12, drag & drop layout, live PC hardware telemetry widgets, OBS Control Room, and Counter-Strike 2 Game State Integration (GSI) HUD.
@@ -42,7 +55,7 @@ A production-ready, two-part system engineered from scratch:
 ### 🛠 Tech Stack & Tooling
 
 | Category | Technologies |
-| :--- | :--- |
+|:---|:---|
 | **Languages** | C# · SQL · Kotlin · Python · Rust · PowerShell |
 | **Frameworks & Runtimes** | .NET (Core / Framework) · ASP.NET Core Minimal APIs · Ktor |
 | **Mobile & UI** | Jetpack Compose · Material 3 · Hilt · Coroutines & Flow |
@@ -53,5 +66,10 @@ A production-ready, two-part system engineered from scratch:
 
 ---
 
-### 📫 Connect with me:
-[![Telegram](https://shields.io)](https://t.me) [![VK](https://shields.io)](https://vk.com) [![Email](https://shields.io)](mailto:zibirik122@yandex.ru)
+<div align="center">
+
+[![Telegram](https://shields.io)](https://t.me)
+[![VK](https://shields.io)](https://vk.com)
+[![Email](https://shields.io)](mailto:zibirik122@yandex.ru)
+
+</div>
