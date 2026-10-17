@@ -1,13 +1,7 @@
 # Hi there, I'm zibirik 👋
 ### AI Engineering Student @ ITMO University · Systems & Cross-Platform Developer
 
-<img src="https://shields.io" alt="ITMO" />
-<img src="https://shields.io" alt="C Sharp" />
-<img src="https://shields.io" alt="Dotnet" />
-<img src="https://shields.io" alt="SQL" />
-<img src="https://shields.io" alt="Kotlin" />
-<img src="https://shields.io" alt="Python" />
-<img src="https://shields.io" alt="Rust" />
+`ITMO AI Track` · `C#` · `.NET` · `SQL` · `Kotlin` · `Python` · `Rust`
 
 ---
 
@@ -24,11 +18,6 @@
 
 > Turn your Android tablet into a premium control deck for your Windows PC.  
 > *Stream · Work · Study · Gaming · Automation · Smart Home — all from one glassy dashboard.*
-
-<img src="https://shields.io" alt="Release" />
-<img src="https://shields.io" alt="CI" />
-<img src="https://shields.io" alt="Android" />
-<img src="https://shields.io" alt="Windows" />
 
 A production-ready, two-part system engineered from scratch:
 - 📱 **Android Client** (Kotlin, Jetpack Compose, Material 3, Hilt, Room, DataStore, Ktor): Custom grids up to 12×12, drag & drop layout, live PC hardware telemetry widgets, OBS Control Room, and Counter-Strike 2 Game State Integration (GSI) HUD.
@@ -53,7 +42,7 @@ A production-ready, two-part system engineered from scratch:
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | C# · SQL · Kotlin · Python · Rust · PowerShell |
-| **Frameworks & Runtimes** | .NET (Core / Framework) · ASP.NET Core Minimal APIs · Ktor |
+| **Frameworks & Runtimes** | .NET · ASP.NET Core Minimal APIs · Ktor |
 | **Mobile & UI** | Jetpack Compose · Material 3 · Hilt · Coroutines & Flow |
 | **Databases & Storage** | Relational SQL · Room DB · DataStore |
 | **Backend & Systems** | gRPC / Protobuf · WebSockets · Win32 API |
@@ -63,6 +52,6 @@ A production-ready, two-part system engineered from scratch:
 ---
 
 ### 📫 Connect with me:
-[![Telegram](https://shields.io)](https://t.me)
-[![VK](https://shields.io)](https://vk.com)
-[![Email](https://shields.io)](mailto:zibirik122@yandex.ru)
+- **Telegram:** [@jorgesm3112](https://t.me)
+- **VK:** [zibirik](https://vk.com)
+- **Email:** zibirik122@yandex.ru
